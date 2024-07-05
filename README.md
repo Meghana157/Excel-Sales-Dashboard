@@ -25,7 +25,7 @@ The Vrinda Store owner wants the report for annual sales to understand their cus
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+![Alt text of the image](https://github.com/Meghana157/Excel-Sales-Dashboard/blob/main/Dashboard.png)
 
 ## **Project Insight**
 
