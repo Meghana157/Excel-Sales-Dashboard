@@ -3,7 +3,7 @@
 The Vrinda Store owner wants the report for annual sales to understand their customers and grow more sales.
 
 ## **Dataset used**
-<a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">Vrinda Store Data</a>
+<a href="https://github.com/Meghana157/Excel-Sales-Dashboard/blob/main/Excel_Project.xlsx">Vrinda Store Data</a>
 
 ## **Questions (KPIs)**
 
@@ -21,7 +21,7 @@ The Vrinda Store owner wants the report for annual sales to understand their cus
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make https://github.com/Meghana157/Excel-Sales-Dashboard/blob/main/Excel_Project.xlsx interactive and dynamic
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Meghana157/Excel-Sales-Dashboard/blob/main/Excel_Project.xlsx">Dashboard</a> interactive and dynamic
 
 ## **Dashboard**
 
