@@ -16,7 +16,7 @@ The Vrinda Store owner wants the report for annual sales to understand their cus
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 
-  ## **Process**
+## **Process**
 
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -34,7 +34,7 @@ The Vrinda Store owner wants the report for annual sales to understand their cus
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - Amazon,Flipkart,Myntra channels are max contributing(~80%).
 
-  ## **Final Conclusion:**
+## **Final Conclusion:**
 -To improve sales of Vrinda Store, target women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
   
 
