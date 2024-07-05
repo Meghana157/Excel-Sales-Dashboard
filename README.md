@@ -1,6 +1,7 @@
 # Excel-Sales-Dashboard
 ## **Project Objective**
 The goal of this project is to create a dashboard of annual sales data for a  fictitious store called Vrinda Store.This dashboard aims to provide a visually appealing and intuitive interface and get new insights about the business in order to make data-driven decisions for improving sales.
+
 **__Disclaimer__** : _All datasets and reports do not represent any institution comapny or country and is just a dummy dataset to demonstrate Excel capabilities._
 
 ## Tech Stack Used 
@@ -50,6 +51,7 @@ Below is a snippet of the final dashboard in Excel.
 ## Project Insights
 
 Key insights from the analysis:
+
 **Peak Months:** February and March witness the highest orders and sales activity.
 
 **Gender Trends:** Women lead the charge, accounting for approximately 64% of total purchases.
@@ -66,6 +68,6 @@ Key insights from the analysis:
 
 To boost sales in the future:
 
-Targeted Approach: Based on our data analysis, there's a golden opportunity to engage women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh.With this segment driving a significant portion of sales, tailoring marketing efforts could unlock remarkable growth potential.
+**Targeted Approach**: Based on our data analysis, there's a golden opportunity to engage women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh.With this segment driving a significant portion of sales, tailoring marketing efforts could unlock remarkable growth potential.
 
-Online Strategy: Harnessing the power of online platforms, particularly Amazon, Flipkart, and Myntra, will be a game-changer. Utilizing these channels for targeted ads and promotions can maximize reach and customer engagement.
+**Online Strategy**: Harnessing the power of online platforms, particularly Amazon, Flipkart, and Myntra, will be a game-changer. Utilizing these channels for targeted ads and promotions can maximize reach and customer engagement.
